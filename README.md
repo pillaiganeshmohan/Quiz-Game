@@ -30,3 +30,9 @@ Run the following commands
 ![7](https://github.com/pillaiganeshmohan/Quiz-Game/assets/68379838/b878a543-f9ef-4488-b082-7cde74b436b1)
 
 ![8](https://github.com/pillaiganeshmohan/Quiz-Game/assets/68379838/4fba9396-98fe-45a6-8e2e-78a547494916)
+
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
